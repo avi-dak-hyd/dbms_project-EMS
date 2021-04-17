@@ -186,6 +186,6 @@ LinkedIn & Email - [Avijit Mandal](https://www.linkedin.com/in/avijit-mandal-17b
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/event_details.png
+[product-screenshot]: images/event_details_ii.png
 
 
