@@ -60,7 +60,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-We created this as our Database Management Lab Cource Project. This is project intended to be used by users for hosting events in a particular venue and book other user tickets for the events. MySQL database is used to store datas behind. 
+We created this as our Database Management Lab Course Project. This is a project intended to be used by users for hosting events in a particular venue and other users can book tickets for the events. MySQL RDBMS is used to store data behind. 
 
 Database Schema Diagram
 [![Product Data Base Schema][product-database-schema]](https://example.com)
@@ -70,7 +70,7 @@ A brief description of the project is as follows
 * Designed an Entity Relation Diagram and reduced this to its Database Schema Diagram using proper rules.
 * Designed Graphical User Interface for SignUp, SignIn, Homepage, Search Event, Add Event, View Event, Add and Modify Review, Update Profile, View and Modify Cart   Information and Add Amount from Dummy Bank Account.
 * Created MySQL Database and tables to store user information, event details, tags related to event, booking information, venue details, discount offers,           Transaction details.
-* Implemented search bar in home page and results are displayed on the basis of tags, description and name
+* Implemented search bar in home page and results are displayed on the basis of tags, description and name.
 * Implemented Similar Event block in Event Details page by searching all events with similar tags matched with displayed events.
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
@@ -90,12 +90,10 @@ The major Frameworks and Tech Stacks used in building this project is follows
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-This project assumes you have virtualenv installed. In case not installed install python virtual env to manage dependecies
-* virtualenv
+This project assumes you have virtualenv installed. In case not installed install python virtual env to manage dependencies* virtualenv
   ```sh
   pip install virtualenv
   ```
@@ -106,7 +104,7 @@ This project assumes you have virtualenv installed. In case not installed instal
    ```sh
    git clone https://github.com/avi-dak-hyd/dbms_project-EMS
    ```
-2. Go to the directory where it is cloned and then open terminal and run as follows to go EMS directory
+2. Go to the directory where it is cloned and then open the terminal and run as follows.
    ```sh
    cd django_project/EMS
    ```
@@ -173,8 +171,6 @@ LinkedIn & Email - [Avijit Mandal](https://www.linkedin.com/in/avijit-mandal-17b
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/event_details_ii.png
 [product-database-schema]: images/database_schema.jpeg
 
