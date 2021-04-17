@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1d71f00-1103-4740-91f6-1e359f4b0d47" name="Default Changelist" comment="" />
+    <list default="true" id="d1d71f00-1103-4740-91f6-1e359f4b0d47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbms_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbms_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,16 +13,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/EMS/Dump20210417.sql" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1q6Rh0jXc5GU0JjO3npW93r2dHV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616398169159</updated>
       <workItem from="1616398171570" duration="31000" />
-      <workItem from="1618652046099" duration="547000" />
+      <workItem from="1618652046099" duration="3075000" />
     </task>
     <servers />
   </component>
