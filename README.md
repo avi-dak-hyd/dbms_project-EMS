@@ -17,12 +17,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -66,14 +60,18 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+We created this as our Database Management Lab Cource Project. This is project intended to be used by users for hosting events in a particular venue and book other user tickets for the events. MySQL database is used to store datas behind. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Database Schema Diagram
+[![Product Data Base Schema][product-database-schema]](https://example.com)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+A brief description of the project is as follows
+* Developed a web-based application using Django framework to provide the user with the facility of creating and booking events.
+* Designed an Entity Relation Diagram and reduced this to its Database Schema Diagram using proper rules.
+* Designed Graphical User Interface for SignUp, SignIn, Homepage, Search Event, Add Event, View Event, Add and Modify Review, Update Profile, View and Modify Cart   Information and Add Amount from Dummy Bank Account.
+* Created MySQL Database and tables to store user information, event details, tags related to event, booking information, venue details, discount offers,           Transaction details.
+* Implemented search bar in home page and results are displayed on the basis of tags, description and name
+* Implemented Similar Event block in Event Details page by searching all events with similar tags matched with displayed events.
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
@@ -84,6 +82,8 @@ The major Frameworks and Tech Stacks used in building this project is follows
 * [Tailwind CSS](https://tailwindcss.com/)
 * [MySQL](https://www.mysql.com/)
 * [Python](https://www.python.org/)
+* [HTML5]()
+* [CSS3]()
 
 
 
@@ -166,7 +166,6 @@ LinkedIn & Email - [Avijit Mandal](https://www.linkedin.com/in/avijit-mandal-17b
 * [MySQL Documentation](https://dev.mysql.com/doc/)
 * [Database System Concepts 6th edition.pdf](https://www.db-book.com/db6/index.html)
 * [ERDPlus](https://erdplus.com/)
-* [Font Awesome](https://fontawesome.com)
 
 
 
@@ -174,18 +173,9 @@ LinkedIn & Email - [Avijit Mandal](https://www.linkedin.com/in/avijit-mandal-17b
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/event_details_ii.png
+[product-database-schema]: images/database_schema.jpeg
 
 
