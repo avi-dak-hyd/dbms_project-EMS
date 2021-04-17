@@ -106,7 +106,7 @@ This project assumes you have virtualenv installed. In case not installed instal
    ```
 2. Go to the directory where it is cloned and then open the terminal and run as follows.
    ```sh
-   cd django_project/EMS
+   cd django_project-EMS/EMS
    ```
 3. Activate `venv` virtual-env
    ```sh
