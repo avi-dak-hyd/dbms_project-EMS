@@ -118,7 +118,7 @@ This project assumes you have virtualenv installed. In case not installed instal
     ```
 5. Open the following address in your browser
     ```bash
-    http://127.0.0.1/8181/home
+    http://127.0.0.1:8181/home
     ```
 
 
